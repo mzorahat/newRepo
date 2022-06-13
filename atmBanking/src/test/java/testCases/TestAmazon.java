@@ -21,6 +21,7 @@ public class TestAmazon
 		System.out.print("The page title is "+driver.getTitle());
 		System.out.println("This is the git");
 		
+		System.out.println("New git Practice");
 		
 	}
 
