@@ -19,6 +19,7 @@ public class TestAmazon
 		WebDriver driver= new ChromeDriver(options);
 		driver.get("https://www.amazon.com");
 		System.out.print("The page title is "+driver.getTitle());
+		System.out.println("This is the git");
 		
 		
 	}
